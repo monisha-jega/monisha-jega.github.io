@@ -1,94 +1,136 @@
-# Jekyll Resume Theme
+# panthera-jekyll
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+[![Gem Version](https://badge.fury.io/rb/panthera-jekyll.svg)](https://badge.fury.io/rb/panthera-jekyll)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
+*panthera-jekyll is a Jekyll theme for GitHub Pages and Jekyll sites. You can [preview the theme to see what it looks like](https://demothemes.github.io/panthera-jekyll), or even [use it today](#usage).*
 
-# Stack
+<div style="text-align: center;">
+  <img src="/screenshot.png" alt="panthera-jekyll" style="width: 100%; max-width: 750px;" />
+</div>
 
-![](https://img.shields.io/badge/jekyll-✓-blue.svg)
-![](https://img.shields.io/badge/html5-✓-blue.svg)
-![](https://img.shields.io/badge/sass-✓-blue.svg)
-![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
-![](https://img.shields.io/badge/particle--js-✓-blue.svg)
-![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
-![](https://img.shields.io/badge/devicon-✓-blue.svg)
-![](https://img.shields.io/badge/gulp-✓-blue.svg)
+## Installation
 
-***
+### Building a Jekyll Site
 
-<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
+Add this line to your Jekyll site's `Gemfile`:
 
-***
+```ruby
+gem "panthera-jekyll"
+```
 
-# Screenshot
+And add this line to your Jekyll site's `_config.yml`:
 
-<p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
-</p>
+```yaml
+theme: panthera-jekyll
+```
 
-# Quick Setup
+And then execute:
 
-1. Install Jekyll: `gem install jekyll bundler`
-2. For this repository and clone your fork
-3. Edit `_config.yml` to personalize your site
+    $ bundle
 
-# Settings
+Or install it yourself as:
 
-You have to fill some informations on `_config.yml` to customize your site:
+    $ gem install panthera-jekyll
 
-## Site settings
+### Building a Github Page
+
+Add this line to your Github Page's `_config.yml`:
+
+```yaml
+remote_theme: christianezeani/panthera-jekyll
+```
+
+## Customizing
+
+### Configuration variables
+
+panthera-jekyll will respect the following variables, if set in your site's `_config.yml`:
+
 ```yml
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+title: [The title of your site or Profile Name]
+subtitle: [A brief subtitle or job title]
+description: [A short description of your site's purpose]
 ```
 
-## User settings
+To configure side menu, set the following variables:
+
 ```yml
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Monisha J
-email: monishaj.65@gmail.com
+menu:
+  - text: [Menu text]
+    link: [Relative page link with the '/' prefix]
+    icon: [Menu Icon]
 ```
 
-> Don't forget to change your URL before you deploy your site!
+#### Example
 
-# Color and Particle Customization
+```yml
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
 
-- Color Customization
-  - Edit the `.sass` variables
-- Particle Customization
-  - Edit the json data in particle function in `app.js`
-  - Refer to `Particle.js` for help
-  
-# Content
-
-You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
-
-```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
-  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
-</a>
+  - text: Skills & Offers
+    link: /skills-and-offers
+    icon: ""
 ```
 
-# Running locally
+To configure social links, set the following variables:
 
-In order to compile the assets and run `Jekyll` locally you need to follow those steps:
+```yml
+social_icons:
+  - name: [Socialmedia title]
+    link: [Social link]
+    icon: [Icon class]
+```
 
-1. Install Jekyll
-2. Run `jekyll build`
-3. Start and http-server in the folder `_site`
+#### Example
 
-# Contribution
+```yml
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
 
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+```
 
-# Donate
+panthera-jekyll currently supports the following icons:
 
-`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
+* [FontAwesome](https://fontawesome.com) (version 5.9.0)
 
-`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
+Additionally, you may choose to set the following optional variables:
+
+```yml
+google_analytics: [Your Google Analytics tracking ID]
+```
+
+### Stylesheet
+
+If you'd like to add your own custom styles:
+
+1. Create a file called `/assets/css/style.scss` in your site
+
+2. Add the following content to the top of the file, exactly as shown:
+
+    ```scss
+    ---
+    ---
+
+    @import "panthera-jekyll";
+    ```
+
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/chrisitanezeani/panthera-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+

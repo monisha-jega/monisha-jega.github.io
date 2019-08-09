@@ -1,20 +1,49 @@
-# Site settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
 title: Monisha J
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+subtitle: Indian Institute of Technology Madras
 
-# User settings
-username: Monisha J
-user_description: I am Monisha.
-user_title: Computer Science and Engineering
-email: monishaj@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+# Side Menu Links
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
 
-# Google-analytics
-google-analytics:
-  id: ""
+  - text: Publications And Patents
+    link: /publications-and-patents
+    icon: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+  - text: Contact Me
+    link: /contact
+    icon: ""
+
+  - text: My Resume
+    link: /resume
+    icon: ""
+
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
+
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
+
+  - name: twitter
+    link: https://www.twitter.com/christianezeani
+    icon: fab fa-twitter
+
+
+    
