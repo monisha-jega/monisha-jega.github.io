@@ -7,7 +7,7 @@ defaults:
       layout: default
 
 title: Monisha Jegadeesan
-subtitle: Indian Institute of Technology Madras
+subtitle: 
 
 # Side Menu Links
 menu:
@@ -23,7 +23,7 @@ menu:
     link: http://blogificious-writealious.blogspot.com/
     icon: ""
 
-  - text: CV
+  - text: Curriculum Vitae
     link: /cv.pdf
     icon: ""
 
@@ -33,6 +33,7 @@ menu:
 
 # Socialmedia Icons
 social_icons:
+
   - name: linkedin
     link: https://www.linkedin.com/in/monisha-jegadeesan
     icon: fab fa-linkedin
@@ -40,3 +41,7 @@ social_icons:
   - name: github
     link: https://github.com/monisha-jega
     icon: fab fa-github-square
+
+  - name: goodreads
+    link: https://www.goodreads.com/user/show/28840222-monisha-jegadeesan
+    icon: fas fa-book
