@@ -7,6 +7,10 @@
 _Ameet Deshpande, Monisha Jegadeesan_ <br/>
 ACM CODS-COMAD Young Researchers' Symposium 2019 <br/> <br/>
 
+**[Adversarial Demotion of Bias in Natural Language Generation](https://dl.acm.org/doi/abs/10.1145/3371158.3371229)** <br/>
+_Monisha Jegadeesan_ <br/>
+ACM CODS-COMAD Young Researchers' Symposium 2020 <br/> <br/>
+
 **ARComposer: Authoring Augmented Reality Experiences through Text (Poster)** <br/>
 _Sumit Kumar, Paridhi Maheshwari, Monisha Jegadeesan, Amrit Singhal, Kush Kumar Singh, Kundan Krishna_ <br/>
 ACM User Interface Sottware Symposium 2019 <br/> <br/>

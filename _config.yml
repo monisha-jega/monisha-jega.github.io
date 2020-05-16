@@ -23,8 +23,8 @@ menu:
     link: /contact
     icon: ""
 
-  - text: My Resume
-    link: /resume.pdf
+  - text: CV
+    link: /cv.pdf
     icon: ""
 
 # Socialmedia Icons
