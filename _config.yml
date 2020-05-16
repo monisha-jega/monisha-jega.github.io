@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: Monisha J
+title: Monisha Jegadeesan
 subtitle: Indian Institute of Technology Madras
 
 # Side Menu Links
@@ -23,12 +23,12 @@ menu:
     link: http://blogificious-writealious.blogspot.com/
     icon: ""
 
-  - text: Contact
-    link: /contact
-    icon: ""
-
   - text: CV
     link: /cv.pdf
+    icon: ""
+
+  - text: Contact
+    link: /contact
     icon: ""
 
 # Socialmedia Icons

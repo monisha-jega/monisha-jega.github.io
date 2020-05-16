@@ -124,11 +124,10 @@
     left: 5px;
     right: 5px;
     text-align: center;
-    font-size: xx-large
   }
 
   &__title {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
@@ -163,6 +162,7 @@
         padding: 15px 15px 15px 30px;
         color: #FFF !important;
         text-decoration: none !important;
+        font-size: larger;
       }
     }
   }

@@ -3,8 +3,9 @@
 
 # Contact Me
 
-#### Mail
-monishaj@cse.iitm.ac.in <br>
-monishaj@smail.iitm.ac.in
+## Mail
+
+*monishaj@cse.iitm.ac.in* <br>
+*monishaj@smail.iitm.ac.in*
            
 
