@@ -11,7 +11,7 @@ subtitle: Indian Institute of Technology Madras
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
@@ -19,7 +19,11 @@ menu:
     link: /publications-and-patents
     icon: ""
 
-  - text: Contact Me
+  - text: Blog
+    link: http://blogificious-writealious.blogspot.com/
+    icon: ""
+
+  - text: Contact
     link: /contact
     icon: ""
 
