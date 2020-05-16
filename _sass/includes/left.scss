@@ -124,6 +124,7 @@
     left: 5px;
     right: 5px;
     text-align: center;
+    text-transform: uppercase;
   }
 
   &__title {
@@ -131,7 +132,7 @@
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
-    text-transform: uppercase;
+    
   }
 
   &__subtitle {
