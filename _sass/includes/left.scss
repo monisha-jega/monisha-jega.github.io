@@ -91,6 +91,7 @@
 
         a {
           color: #FFF;
+          font-size: larger
         }
       }
     }
@@ -123,7 +124,7 @@
     left: 5px;
     right: 5px;
     text-align: center;
-    text-transform: uppercase;
+    font-size: xx-large
   }
 
   &__title {
@@ -131,6 +132,7 @@
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
+    text-transform: uppercase;
   }
 
   &__subtitle {
