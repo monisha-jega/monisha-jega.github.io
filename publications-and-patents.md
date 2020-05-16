@@ -1,7 +1,7 @@
 ---
 ---
 
-# Publications and Patents
+# PUBLICATIONS AND PATENTS
 
 ## Publications 
 

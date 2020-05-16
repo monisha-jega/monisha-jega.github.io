@@ -1,11 +1,11 @@
 ---
 ---
 
-# Contact Me
+# CONTACT ME
 
-## Mail
+## EMail
 
-*monishaj@cse.iitm.ac.in* <br>
-*monishaj@smail.iitm.ac.in*
+monishaj@cse.iitm.ac.in <br>
+monishaj@smail.iitm.ac.in
            
 
