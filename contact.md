@@ -3,7 +3,8 @@
 
 # Contact Me
 
-Email : monishaj@cse.iitm.ac.in
-            monishaj@smail.iitm.ac.in
+Email: <br>
+monishaj@cse.iitm.ac.in <br>
+monishaj@smail.iitm.ac.in
            
 
