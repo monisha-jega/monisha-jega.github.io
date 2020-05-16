@@ -27,12 +27,15 @@ menu:
     link: /cv.pdf
     icon: ""
 
-  - text: Contact
-    link: /contact
-    icon: ""
+  # - text: Contact
+  #   link: /contact
+  #   icon: ""
 
 # Socialmedia Icons
 social_icons:
+  - name: email
+    link: monishaj@cse.iitm.ac.in
+    icon: fas fa-envelope-square
 
   - name: linkedin
     link: https://www.linkedin.com/in/monisha-jegadeesan
