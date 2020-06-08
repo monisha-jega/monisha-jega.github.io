@@ -15,12 +15,8 @@ menu:
     link: /
     icon: ""
 
-  - text: Publications And Patents
-    link: /publications-and-patents
-    icon: ""
-
-  - text: Blog
-    link: https://accioredmoon.blogspot.com/
+  - text: Research
+    link: /research
     icon: ""
 
   - text: Curriculum Vitae
