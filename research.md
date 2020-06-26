@@ -11,7 +11,7 @@ ACM CODS-COMAD Young Researchers' Symposium 2020 <br/>
 
 **[ARComposer: Authoring Augmented Reality Experiences through Text](https://dl.acm.org/doi/10.1145/3332167.3357116)** <br/>
 _Sumit Kumar, Paridhi Maheshwari, Monisha Jegadeesan, Amrit Singhal, Kush Kumar Singh, Kundan Krishna_ <br/>
-ACM User Interface Sottware Symposium 2019 <br/> 
+ACM User Interface Software Symposium 2019 <br/> 
 
 **[Leveraging Ontological Knowledge for Neural Language Models](https://dl.acm.org/citation.cfm?id=3297059)** <br/>
 _Ameet Deshpande, Monisha Jegadeesan_ <br/>
