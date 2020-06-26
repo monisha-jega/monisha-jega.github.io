@@ -24,5 +24,5 @@ ACM CODS-COMAD Young Researchers' Symposium 2019 <br/> <br/>
 _Sumit Kumar, Paridhi Maheshwari, Monisha Jegadeesan, Amrit Singhal, Kush Kumar Singh, Kundan Krishna_ <br/>
 Filed at the US PTO (Application Number : 16/247,235) <br/> <br/>
 
-## Dual Degree Thesis
+<!-- ## Dual Degree Thesis -->
 
