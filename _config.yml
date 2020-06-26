@@ -41,6 +41,6 @@ social_icons:
     link: https://github.com/monisha-jega
     icon: fab fa-github-square
 
-  # - name: goodreads
-  #   link: https://www.goodreads.com/user/show/28840222-monisha-jegadeesan
-  #   icon: fas fa-book
+  - name: goodreads
+    link: https://www.goodreads.com/user/show/28840222-monisha-jegadeesan
+    icon: fas fa-book
