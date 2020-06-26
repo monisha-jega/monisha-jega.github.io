@@ -37,10 +37,24 @@ social_icons:
     link: https://www.linkedin.com/in/monisha-jegadeesan
     icon: fab fa-linkedin
 
+  - name: twitter
+    link: https://twitter.com/monisha_jega
+    icon: fab fa-twitter-square
+
   - name: github
     link: https://github.com/monisha-jega
     icon: fab fa-github-square
 
+  - name: googlescholar
+    link: https://scholar.google.com/citations?user=Orp6iLcAAAAJ&hl=en
+    icon: fas fa-scroll
+
   - name: goodreads
     link: https://www.goodreads.com/user/show/28840222-monisha-jegadeesan
     icon: fas fa-book
+
+  - name: blogspot
+    link: https://accioredmoon.blogspot.com
+    icon: fab fa-blogger
+
+
