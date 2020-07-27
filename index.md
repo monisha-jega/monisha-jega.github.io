@@ -13,8 +13,6 @@ I am a practitioner of the classical dance form of Bharatanatyam. I am an acquis
 
 <div class="embed-container">
   <iframe
-      width="640"
-      height="480"
       src="video.mp4"
       frameborder="0"
       allowfullscreen="">
