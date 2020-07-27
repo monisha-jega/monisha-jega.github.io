@@ -10,4 +10,8 @@ My primary research interest is Natural Language Processing with Deep Learning. 
 
 I am a practitioner of the classical dance form of Bharatanatyam. I am an acquisitive reader, historical fiction being my favourite genre. I also write articles, book reviews and short stories on my [personal blog](https://accioredmoon.blogspot.com/). 
 
+![My helpful screenshot](screenshot.png)
+
+
+
 
