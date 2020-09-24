@@ -1,57 +1,26 @@
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: Monisha Jegadeesan
-subtitle: 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Side Menu Links
-menu:
-  - text: Home
-    link: /
-    icon: ""
+# Setup
+title:            Monisha Jegadeesan
+tagline:          'Software Engineer'
+description:      'GOOGLE INDIA'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-  - text: Research
-    link: /research
-    icon: ""
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-  - text: Curriculum Vitae
-    link: /assets/cv.pdf
-    icon: ""
+paginate:         5
 
-  - text: Contact
-    link: /contact
-    icon: ""
+# Custom vars
+version:          2.1.0
 
-# Socialmedia Icons
-social_icons:
-  # - name: email
-  #   link: https://monishaj@cse.iitm.ac.in
-  #   icon: fas fa-envelope-square
-
-  - name: linkedin
-    link: https://www.linkedin.com/in/monisha-jegadeesan
-    icon: fab fa-linkedin
-
-  - name: twitter
-    link: https://twitter.com/monisha_jega
-    icon: fab fa-twitter-square
-
-  - name: github
-    link: https://github.com/monisha-jega
-    icon: fab fa-github-square
-
-  - name: googlescholar
-    link: https://scholar.google.com/citations?user=Orp6iLcAAAAJ&hl=en
-    icon: fas fa-graduation-cap
-
-  - name: goodreads
-    link: https://www.goodreads.com/user/show/28840222-monisha-jegadeesan
-    icon: fab fa-goodreads
-
-
-
+github:
+  repo:           https://github.com/poole/hyde
