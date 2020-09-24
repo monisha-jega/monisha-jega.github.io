@@ -1,118 +1,84 @@
-# Hyde
-
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
-
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
-
-
-## Usage
-
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
-
-
-## Options
-
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
----
-layout: page
-title: About
----
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Sticky sidebar content
-
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
-
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
+<div align="center">
+  <h1><a href="https://gethugothemes.com/products/academia/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
+  <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
 </div>
 
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
+
+## About
+This is an adaptation of the hugo theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
+
+
+**Key features:**
+
+- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 15+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Installation
+
+Navigate to your themes folder in your Hugo site and use the following commands:
+
+**Note : You must use `hugo-extended` version to compile SCSS**
+
+```
+$ mkdir themes
+$ cd themes
+$ git clone git@github.com:themefisher/academia-hugo.git
 ```
 
+## Main features
 
-### Themes
+* Fully Responsive Ready.
+* Powered by bootstrap 4 framework.
+* Product Showcase
+* Email Subscription Section
+* Documented codes.
 
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+## Reporting Issues
 
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
+We use GitHub Issues as the official bug tracker for the Academia Template. Please Search [existing issues](https://github.com/themefisher/academia-hugo/issues). It’s possible someone has already reported the same problem.
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/academia-hugo/issues)
 
-There are eight themes available at this time.
+## Technical Support or Questions (Paid)
 
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
 
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+## Donate Us (Author) 
+This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
 
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
+* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
+* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
+* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
+* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
+* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
+* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
+* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+Of course, you can also choose what you want to donate, all donations are awesome !
 
-### Reverse layout
-
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Development
-
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+## Hire Us
+We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
 
 
-## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+## Premium Themes
 
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Phantop](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) |
+|:---:|:---:|:---:|
+| **Hugo Mega Bundle**  | **Phantom**  | **Red Lab**  |
+| [![GoDocs](https://gethugothemes.com/wp-content/uploads/edd/2020/02/Home-Page-2.png)](https://gethugothemes.com/products/godocs-hugo-documentation-theme/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
+| **GoDocs** | **Influencer** | **Kross** |
+| [![Timer](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Timer.jpg)](https://gethugothemes.com/products/timer-hugo-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
+| **Timer** | **Parsa** | **More Hugo Themes** |
