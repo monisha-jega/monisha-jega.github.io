@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Monisha Jegadeesan"
   avatar           : "circle-cropped.png"
-  bio              : "Software development Engineer"
+  bio              : "Software Development Engineer at GOOGLE"
   location         : "Bangalore"
-  employer         : "Google"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Orp6iLcAAAAJ&hl=en"
-  email            : "monishaj.65@gmail.com"
+  email            : "monishaj@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

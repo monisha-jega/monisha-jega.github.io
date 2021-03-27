@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
 
-  - title: "Articles"
-    url: /articles/    
+  # - title: "Articles"
+  #   url: /articles/    
         
   - title: "Blog"
-    url: /year-archive/
+    url: accioredmoon.blogspot.com
 
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
