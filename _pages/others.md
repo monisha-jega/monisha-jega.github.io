@@ -10,7 +10,7 @@ author_profile: true
 <embed src="https://myvoice.opindia.com/2020/08/gendered-social-impact-of-the-covid-19-pandemic/" style="width:800px; height: 500px;">
 
 <br>
-<br
+<br>
 <br>
 <br>
 
