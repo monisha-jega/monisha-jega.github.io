@@ -5,13 +5,10 @@ author_profile: true
 ---
 
 
-## ARTICLES
-
-<embed src="https://myvoice.opindia.com/2020/08/gendered-social-impact-of-the-covid-19-pandemic/" style="width:500px; height: 300px;">
+## PUBLISHED ARTICLES
 
 
-<embed src="http://www.example.com" style="width:500px; height: 300px;">
-
+<embed src="https://myvoice.opindia.com/2020/08/gendered-social-impact-of-the-covid-19-pandemic/" style="width:800px; height: 500px;">
 
 
 ## BHARATANATYAM

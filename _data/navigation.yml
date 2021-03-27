@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
   - title: "CV"
@@ -10,7 +10,7 @@ main:
     url: /others/    
         
   - title: "Blog"
-    url: http://accioredmoon.blogspot.com
+    url: https://accioredmoon.blogspot.com
 
   - title: "Contact"
     url: /contact/
