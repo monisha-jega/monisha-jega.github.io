@@ -6,11 +6,11 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
-  # - title: "Articles"
-  #   url: /articles/    
+  - title: "Others"
+    url: /others/    
         
   - title: "Blog"
-    url: accioredmoon.blogspot.com
+    url: http://accioredmoon.blogspot.com
 
   - title: "Contact"
     url: /contact/
