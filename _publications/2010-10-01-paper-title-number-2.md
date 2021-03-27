@@ -1,10 +1,15 @@
 ---
-title: "ARComposer: Authoring Augmented Reality Experiences through Text"
-<br/>
-_Sumit Kumar, Paridhi Maheshwari, Monisha Jegadeesan, Amrit Singhal, Kush Kumar Singh, Kundan Krishna_ <br/>
+title: "Paper Title Number 2"
 collection: publications
-permalink: https://dl.acm.org/doi/10.1145/3332167.3357116
-date: 2009-10-01
-venue: 'ACM CODS-COMAD Young Researchers' Symposium 2020
-paperurl: 'https://dl.acm.org/doi/10.1145/3332167.3357116'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
