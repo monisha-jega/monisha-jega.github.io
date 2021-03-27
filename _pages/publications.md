@@ -5,7 +5,7 @@ author_profile: true
 ---
  
 
- ## PUBLICATIONS
+## PUBLICATIONS
 
 **[Adversarial Demotion of Bias in Natural Language Generation](https://dl.acm.org/doi/abs/10.1145/3371158.3371229)** <br/>
 _Monisha Jegadeesan_ <br/>
