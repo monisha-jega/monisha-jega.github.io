@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br> <br>
-I am a Software Engineer in Google India. I am part of the Editors Intelligence team in Bangalore, which majorly feals with spelling and grammar corrections in Google Workspace. I graduated from the Indian Institute of Technology Madras with a Dual Degree (B.Tech and M.Tech) in Computer Science and Engineering. I have previously interned at the Indian Institute of Science, Adobe Research Labs and Google India. 
+I am a Software Engineer in _Google India_. I am part of the _Editors Intelligence_ team in Bangalore, which majorly builds and maintains spelling and grammar correction systems for Google Docs, Sheets and Slides. I graduated from the _Indian Institute of Technology Madras_ with a Dual Degree (B.Tech and M.Tech) in Computer Science and Engineering. I have previously interned at the _Indian Institute of Science_, _Adobe Research Labs_ and _Google India_. 
 
 My primary research interest is Natural Language Processing. I have worked on projects such on paraphrase generation, cognitive modelling, text to scene conversion, neural language models, and multimodal dialogue systems. I completed my Master's thesis under the guidance of [Prof. Yulia Tsvetkov](www.cs.cmu.edu/~ytsvetko/), Language Technologies Institute, Carnegie Mellon University. I have also worked with [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) at the Indian Institute of Technology Madras and [Prof. Veni Madhavan](https://www.csa.iisc.ac.in/people/people-faculty-cevm.html) at the Indian Institute of Science. 
 
