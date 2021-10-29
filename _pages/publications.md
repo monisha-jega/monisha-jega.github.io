@@ -9,7 +9,7 @@ author_profile: true
 
 **Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs** <br/>
 _Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov_ <br/>
-**Workshop on Multilingual Representation Learning,<br/>
+**Workshop on Multilingual Representation Learning <br/>
 The 2021 Conference on Empirical Methods in Natural Language Processing** <br/> 
 
 **[Adversarial Demotion of Bias in Natural Language Generation](https://dl.acm.org/doi/abs/10.1145/3371158.3371229)** <br/>
