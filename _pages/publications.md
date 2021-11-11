@@ -7,7 +7,7 @@ author_profile: true
 
 ## PUBLICATIONS
 
-**Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs** <br/>
+**[Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs](https://aclanthology.org/2021.mrl-1.15.pdfx)** <br/>
 _Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov_ <br/>
 **Workshop on Multilingual Representation Learning <br/>
 The 2021 Conference on Empirical Methods in Natural Language Processing** <br/> 
